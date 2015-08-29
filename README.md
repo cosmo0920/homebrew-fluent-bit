@@ -1,4 +1,4 @@
-Fluent Bit Formula
+[Fluent Bit](http://fluentbit.io/) Formula
 ===
 
 Unofficial Fluent Bit Formula (now HEAD only).
